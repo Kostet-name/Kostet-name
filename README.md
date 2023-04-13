@@ -14,7 +14,7 @@
 
 ### ⚙️ GitHub статистика:
 
-  <img src="https://github-readme-stats.vercel.app/api?username=artrey&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kostet-name&show_icons=true&include_all_commits=true" />
 <table>
   <tr>
     <td>
