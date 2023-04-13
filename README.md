@@ -14,12 +14,8 @@
 
 ### ⚙️ GitHub статистика:
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kostet-name&show_icons=true&include_all_commits=true" />
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kostet-name&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kostet-name's GitHub stats" />
-    </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kostet-name&layout=compact&theme=vision-friendly-dark" />
     </td>
